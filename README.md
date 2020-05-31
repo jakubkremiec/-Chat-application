@@ -13,3 +13,5 @@
 ### Finally, user gonna be logged in, he will get possibility to write messages with other users.
 
 ## To start you need to go to localhost:8080
+
+### Made using: Java, Spring, Vaadin, H2 database.
